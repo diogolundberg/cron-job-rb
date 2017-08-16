@@ -19,6 +19,8 @@ gem 'typhoeus'
 
 group :development, :test do
   gem 'byebug', platform: :mri
+  gem "pry-rails", "~> 0.3"
+  gem "pry-byebug", "~> 3.3"
 end
 
 group :development do
