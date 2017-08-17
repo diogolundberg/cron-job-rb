@@ -1,0 +1,1 @@
+* * * * * sudo su && cd /var/app/current/ && rake RAILS_ENV=production cron:message
