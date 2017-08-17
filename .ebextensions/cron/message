@@ -1,1 +1,2 @@
-* * * * * sudo su && cd /var/app/current/ && rake RAILS_ENV=production cron:message
+EB_APP_CURRENT_DIR=$(/opt/elasticbeanstalk/bin/get-config container -k app_deploy_dir)/cron_job
+* * * * * root EB_APP_CURRENT_DIR cron:message
