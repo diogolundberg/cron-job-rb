@@ -21,4 +21,6 @@
 
 en:
   title: "Cronjob"
+  one_minute: 'Every minute passing through your timeline: %{time} '
+  two_minutes: 'Every two minutes passing through your timeline: %{time} '
   message: 'Just a cronjob passing through your timeline: %{time} '
