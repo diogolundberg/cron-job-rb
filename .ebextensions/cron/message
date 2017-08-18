@@ -1,1 +1,0 @@
-* * * * * root /opt/elasticbeanstalk/hooks/appdeploy/post/rake.sh cron:message
