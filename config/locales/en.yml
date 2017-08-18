@@ -23,3 +23,4 @@ en:
   title: "Cronjob"
   one_minute: 'Every minute passing through your timeline: %{time} '
   two_minutes: 'Every two minutes passing through your timeline: %{time} '
+  three_minutes: 'Every three minutes passing through your timeline: %{time} '
